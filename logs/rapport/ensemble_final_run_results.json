@@ -1,0 +1,1 @@
+{"avg_val_f1_micro": 0.36055804628108384, "avg_val_f1_macro": 0.3606481951946591, "avg_val_accuracy": 0.3605580462810838, "avg_batch_val_accuracy": 0.36498600244522095, "avg_accuracy": 0.37783652544021606, "avg_val_loss": 2.084617538953954, "avg_loss": 2.0144217768119455, "train_time": 2743.034328934984}

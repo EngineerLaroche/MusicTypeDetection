@@ -1,0 +1,22 @@
+{
+  "mlp_marsyas_1": {"best_epoch": 97, "loss": 2.0883581514648784, "val_loss": 2.243323952939715, "accuracy": 0.3521971106529236, "val_accuracy": 0.3117986023426056},
+
+  "mlp_ssd_1": {"best_epoch": 46, "loss": 2.1285081868688085, "val_loss": 2.291429142589335, "accuracy": 0.3417337238788605, "val_accuracy": 0.2970398962497711},
+
+  "mlp_jmirderivatives_1": {"best_epoch": 331, "loss": 2.211810456896807, "val_loss": 2.355623838235015, "accuracy": 0.31360167264938354, "val_accuracy": 0.27751943469047546},
+
+  "mlp_jmirmfccs_1": {"best_epoch": 475, "loss": 2.3839621324128353, "val_loss": 2.4498800787556982, "accuracy": 0.2704533338546753, "val_accuracy": 0.25415611267089844},
+
+  "mlp_jmirspectral_1": {"best_epoch": 494, "loss": 2.453926062139764, "val_loss": 2.48872755359964, "accuracy": 0.24770265817642212, "val_accuracy": 0.23948094248771667},
+
+  "mlp_mvd_2": {"best_epoch": 13, "loss": 2.4181194584197905, "val_loss": 2.585534527879992, "accuracy": 0.2690470814704895, "val_accuracy": 0.22385898232460022},
+
+  "mlp_jmirlpc_1": {"best_epoch": 420, "loss": 2.5454024154040282, "val_loss": 2.601318697560113, "accuracy": 0.2290314882993698, "val_accuracy": 0.21436329185962677},
+
+  "mlp_rh_1": {"best_epoch": 116, "loss": 2.5686506039151333, "val_loss": 2.6495630991747365, "accuracy": 0.223336860537529, "val_accuracy": 0.20336386561393738},
+
+  "mlp_trh_2": {"best_epoch": 10, "loss": 2.5133373219083017, "val_loss": 2.644916125013895, "accuracy": 0.24014230072498322, "val_accuracy": 0.20297402143478394},
+
+  "mlp_jmirmoments_1": {"best_epoch": 495, "loss": 2.6043611601020378, "val_loss": 2.639236283453016, "accuracy": 0.20864081382751465, "val_accuracy": 0.20005013048648834}
+
+}

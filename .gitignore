@@ -1,0 +1,38 @@
+
+data/raw/music
+data/
+
+# Ignore PyCharm things
+.idea/
+
+# Ignore VSCode things
+.vscode/
+
+# Ignore compiled things
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore those lonely build things
+build
+
+# Ignore large models
+models/SVM.joblib
+models/svm.joblib
+models/svm_final_1.joblib
+models/final_random_forest_*.pickle
+
+# Ignore that Jupyter Notebook thing
+#.ipynb_checkpoints
+# 	Oups, this is where jupyter checkpoints are stored; 
+# 	maybe we should keep this in git
+
+
+data/*.csv
+
+!data/.gitkeep
+!data/raw/.gitkeep
+!logs/.gitkeep
+!models/.gitkeep
+!notebooks/.gitkeep
+!src/.gitkeep
