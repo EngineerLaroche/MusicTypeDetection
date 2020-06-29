@@ -1,5 +1,9 @@
 
+# Objectif
 
+Le problème de classification des pièces musicales en fonction du genre fut adressé en évaluent les ensembles de primitives, identifier les forces et faiblesse des algorithmes, en analysant le type de prétraitement et technique de réduction de dimensionnalité à employer. Il était question d'établir les méthodes de validation, optimiser les hyperparamètres des modèles et combiner les classificateurs dans le but de maximiser la performance du système.
+
+# Install
 Pour installer les packages du projet, exécuter la commande suivante dans le dossier root du projet
 ~~~~
 pip install -e .
